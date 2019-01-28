@@ -1,0 +1,11 @@
+C:\Users\sergi\source\repos\BancoEvemtos\BancoEventos.Domain\bin\Debug\BancoEventos.Domain.dll
+C:\Users\sergi\source\repos\BancoEvemtos\BancoEventos.Domain\bin\Debug\BancoEventos.Domain.pdb
+C:\Users\sergi\source\repos\BancoEvemtos\BancoEventos.Domain\bin\Debug\AutoMapper.dll
+C:\Users\sergi\source\repos\BancoEvemtos\BancoEventos.Domain\bin\Debug\System.ValueTuple.dll
+C:\Users\sergi\source\repos\BancoEvemtos\BancoEventos.Domain\bin\Debug\AutoMapper.pdb
+C:\Users\sergi\source\repos\BancoEvemtos\BancoEventos.Domain\bin\Debug\AutoMapper.xml
+C:\Users\sergi\source\repos\BancoEvemtos\BancoEventos.Domain\bin\Debug\System.ValueTuple.xml
+C:\Users\sergi\source\repos\BancoEvemtos\BancoEventos.Domain\obj\Debug\BancoEventos.Domain.csproj.CoreCompileInputs.cache
+C:\Users\sergi\source\repos\BancoEvemtos\BancoEventos.Domain\obj\Debug\BancoEventos.Domain.csproj.CopyComplete
+C:\Users\sergi\source\repos\BancoEvemtos\BancoEventos.Domain\obj\Debug\BancoEventos.Domain.dll
+C:\Users\sergi\source\repos\BancoEvemtos\BancoEventos.Domain\obj\Debug\BancoEventos.Domain.pdb

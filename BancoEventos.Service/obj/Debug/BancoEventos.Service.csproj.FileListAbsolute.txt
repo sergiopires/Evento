@@ -1,0 +1,14 @@
+C:\Users\sergi\source\repos\BancoEvemtos\BancoEventos.Service\obj\Debug\BancoEventos.Service.csprojAssemblyReference.cache
+C:\Users\sergi\source\repos\BancoEvemtos\BancoEventos.Service\obj\Debug\BancoEventos.Service.csproj.CoreCompileInputs.cache
+C:\Users\sergi\source\repos\BancoEvemtos\BancoEventos.Service\bin\Debug\BancoEventos.Service.dll
+C:\Users\sergi\source\repos\BancoEvemtos\BancoEventos.Service\bin\Debug\BancoEventos.Service.pdb
+C:\Users\sergi\source\repos\BancoEvemtos\BancoEventos.Service\bin\Debug\AutoMapper.dll
+C:\Users\sergi\source\repos\BancoEvemtos\BancoEventos.Service\bin\Debug\BancoEventos.Domain.dll
+C:\Users\sergi\source\repos\BancoEvemtos\BancoEventos.Service\bin\Debug\System.ValueTuple.dll
+C:\Users\sergi\source\repos\BancoEvemtos\BancoEventos.Service\bin\Debug\BancoEventos.Domain.pdb
+C:\Users\sergi\source\repos\BancoEvemtos\BancoEventos.Service\bin\Debug\AutoMapper.pdb
+C:\Users\sergi\source\repos\BancoEvemtos\BancoEventos.Service\bin\Debug\AutoMapper.xml
+C:\Users\sergi\source\repos\BancoEvemtos\BancoEventos.Service\bin\Debug\System.ValueTuple.xml
+C:\Users\sergi\source\repos\BancoEvemtos\BancoEventos.Service\obj\Debug\BancoEventos.Service.csproj.CopyComplete
+C:\Users\sergi\source\repos\BancoEvemtos\BancoEventos.Service\obj\Debug\BancoEventos.Service.dll
+C:\Users\sergi\source\repos\BancoEvemtos\BancoEventos.Service\obj\Debug\BancoEventos.Service.pdb
